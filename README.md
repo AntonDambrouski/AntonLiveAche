@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntonLiveAche
 - 👀 I’m interested in programming, workout, playing guitar.
-- 🌱 I’m currently learning C#, html/css/js, ASP.NET, SOLID.
-- 💞️ I’m looking to collaborate on creating web-pages by using ASP.NET, html/css/js.
+- 🌱 I’m currently learning design patterns, Asp.Net and Angular.
+- 💞️ I’m looking to collaborate on creating web-pages by using ASP.NET and Angular.
 - 📫 How to reach me:
 inst: https://www.instagram.com/anton_prog.j/
 email: anton.dombrovskij.cz@gmail.com
